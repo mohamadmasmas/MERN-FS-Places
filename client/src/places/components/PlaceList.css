@@ -1,0 +1,10 @@
+.place-list {
+    list-style: none;
+    margin: 1rem auto;
+    padding: 0;
+    width: 100%;
+    max-width: 60rem;
+}
+.place-list h2{
+  color: white;
+}
